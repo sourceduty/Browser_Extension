@@ -59,6 +59,8 @@ async function checkLastTab() {
 
 Integrating this feature directly into Chrome would enhance the user experience by offering a built-in layer of protection against accidental tab closure, especially when working with crucial information or during intensive research sessions. This would eliminate the need for external extensions, ensuring a seamless and more secure browsing experience for all users. By providing users with a native option to enable or disable this confirmation prompt based on their preferences, Chrome could cater to a wider audience, accommodating those who value this safeguard while maintaining efficiency for users who prefer uninterrupted browsing. Such a feature would reflect Chrome's commitment to user-centric design, prioritizing not just speed and efficiency but also the prevention of potential disruptions in the user's workflow.
 
+Remove the "X" from the single tab?
+
 #
 
 🛈 This software is free and open-source; anyone can redistribute it and/or modify it.

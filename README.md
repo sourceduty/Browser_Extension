@@ -4,7 +4,6 @@ Decorative Text extension is a unique and artistic text transformation extension
 
 ![decorative text](https://github.com/sourceduty/Extensions/assets/123030236/4bba5187-86f2-44f6-8d8f-5abb32ccb18d)
 
-***
 
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
 

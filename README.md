@@ -61,6 +61,8 @@ Integrating this feature directly into Chrome would enhance the user experience 
 
 Remove the "X" from the single tab?
 
+![Chrome X](https://github.com/sourceduty/Extensions/assets/123030236/b4921e04-f624-4626-9810-af3bccdcd5d9)
+
 #
 
 🛈 This software is free and open-source; anyone can redistribute it and/or modify it.
